@@ -9,7 +9,7 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
 <h3>
   <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> <u>About me:</u> <br>
 </h3>
-<h4>
-  :mortar_board: &#160; Currently studying <img width="10" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
-  :video_game: &#160; Almost ready to start learning <img width="10" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png"> Game Development &#160; :video_game:
-</h4>
+<h3>
+  :mortar_board: &#160; Currently studying <img width="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
+  :video_game: &#160; Almost ready to start learning <img width="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png"> Game Development &#160; :video_game:
+</h3>
