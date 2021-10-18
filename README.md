@@ -1,6 +1,6 @@
 ### Hello there! :wave:
 ### I'm Ivan Antonov :sunglasses:
-### Future Software Developer 👨‍💻
+### A future Software Developer 👨‍💻
 
 
 
