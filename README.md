@@ -7,7 +7,7 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
 </h1>
 
 <h3>
-  <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> <u>About me:</u> <br>
+  <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> About me: <br>
 </h3>
 <h3>
   :mortar_board: &#160; Currently studying <img width="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
