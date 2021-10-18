@@ -1,4 +1,6 @@
-<h2 align="center">Hello there! :wave: Ivan Antonov here :sunglasses: A Future Software Developer 👨‍💻</h2>
+<h2 align="center">Hello there! 👋 </h2>
+<h2 align="center">Ivan Antonov here 😎</h2>
+<h2 align="center">A Future Software Developer 👨‍💻</h2>
 
 
 
