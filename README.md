@@ -1,4 +1,6 @@
-### Hello there! Ivan Antonov here :wave: 👨‍💻
+### Hello there! :wave:
+### Ivan Antonov here 👨‍💻
+### Future Software Developer
 
 
 
