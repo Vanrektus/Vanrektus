@@ -1,5 +1,5 @@
 ### Hello there! :wave:
-### Ivan Antonov here 👨‍💻
+### I'm Ivan Antonov 👨‍💻
 ### Future Software Developer
 
 
