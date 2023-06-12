@@ -10,7 +10,7 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
   <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> About me: <br>
 </h3>
 <h3>
-  :mortar_board: &#160; Studied <img width="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
   :computer: &#160; Currently working as a Junior Software Developer :computer: &#160; <br>
+  :mortar_board: &#160; Studied <img width="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
   :video_game: &#160; Enthusiastic about learning <img width="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png">  Game Development &#160; :video_game:
 </h3>
