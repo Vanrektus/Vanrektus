@@ -11,5 +11,6 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
 </h3>
 <h3>
   :mortar_board: &#160; Studied <img width="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Web Development &#160; :mortar_board: <br>
+  <img width="20" src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000"> Currently working as a Junior Software Developer <img width="20" src="https://img.freepik.com/free-vector/cute-man-working-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5717.jpg?w=2000"> <br>
   :video_game: &#160; Enthusiastic about learning <img width="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png"> Game Development &#160; :video_game:
 </h3>
